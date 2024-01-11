@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetstreamMauiApp", "JetstreamMauiApp\JetstreamMauiApp.csproj", "{1FF1B3F7-1E2D-4E5B-98B6-BB7B8A95ABA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF1B3F7-1E2D-4E5B-98B6-BB7B8A95ABA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF1B3F7-1E2D-4E5B-98B6-BB7B8A95ABA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF1B3F7-1E2D-4E5B-98B6-BB7B8A95ABA5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1FF1B3F7-1E2D-4E5B-98B6-BB7B8A95ABA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF1B3F7-1E2D-4E5B-98B6-BB7B8A95ABA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF1B3F7-1E2D-4E5B-98B6-BB7B8A95ABA5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B4163A-49A3-4A89-BBF3-B8063379C6FA}
+	EndGlobalSection
+EndGlobal
